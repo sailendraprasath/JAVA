@@ -1,4 +1,4 @@
-package feb02.package2;
+package package2;
 
 public class Teacher {
     public int salary = 1000;

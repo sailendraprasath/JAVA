@@ -1,5 +1,5 @@
-package feb02.package1;
-import feb02.package2.Teacher;
+package package1;
+import package2.Teacher;
 
 
 public class Student {
